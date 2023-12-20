@@ -35,6 +35,8 @@ Console.ReadLine();
 
 int a = new int { };
 int b = new int { };
+
+// дальше надо доделать, не работает пока
 /* {
     for (int i = 0; i < rows; i++)
     {
@@ -66,6 +68,5 @@ int b = new int { };
             Console.WriteLine("такого элемента нет");
         }
     }
-} */
-
-
+}
+ */
